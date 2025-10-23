@@ -1,58 +1,91 @@
-# 📊 Censo Escolar — Construção e Padronização de Séries Históricas (1995–2024)
+# 🏷️ Censo Escolar Brasil (1995–2024): Pipeline de Limpeza e Estruturação de Dados
 
-## 🎯 Objetivo
+## 📘 Descrição Geral
 
-- Unificar os arquivos brutos de 30 anos.
-- Padronizar nomes de colunas, tipos e categorias.
-- Tratar valores ausentes, inconsistências e duplicatas.
-- Gerar datasets limpos e documentados prontos para uso em análise.
+Este projeto tem como objetivo padronizar, limpar e estruturar os microdados do Censo Escolar de 1995 a 2024, disponibilizados pelo INEP.
 
-## 📌 Principais Perguntas de Negócio (KPIs)
+Devido à grande variação no formato dos arquivos ao longo dos anos, foi desenvolvido um pipeline em Python que:
 
-1. sacac
-2. asc
-3. ascasas
-4. ascasca
-5. ascasc
+- Faz o download automático dos arquivos originais (.zip);
+- Extrai e organiza os dados brutos em pastas padronizadas;
+- Limpa, tipa e consolida os CSVs principais;
+- Armazena os resultados em um banco de dados SQLite (censo_escolar.db) para fácil consulta e análise posterior.
+
+Este repositório é parte do meu portfólio em Engenharia de Dados, demonstrando habilidades em ETL, modelagem relacional, e automação de pipelines.
+
+## 🧰 Stack Utilizada
+
+- Python 3.13
+    - pandas
+    - sqlalchemy
+    - zipfile / pathlib / os
+    - tqdm 
+- SQLite (banco leve, sem necessidade de instalação)
+- SQLiteStudio (para visualização e checagem de schema)
+- Jupyter Notebook / VS Code
 
 ## 🗂 Estrutura do Repositório
-> Censo-Data-ETL-Pipeline/ <br />
-> ├── data/ -> dados brutos e tratados <br />
-> ├── notebooks/ -> notebooks de exploração, limpeza e análise <br />
-> ├── src/ -> scripts Python reutilizáveis <br />
-> ├── reports/ -> visualizações e dashboard Power BI <br />
-> └── README.md -> documentação do projeto <br />
+   ```bash
+📂 Censo-Data-ETL-Pipeline/ 
+    ├── 📂 data/ -> dados brutos e tratados 
+    │    ├── 📂 raw/               # CSVs originais extraídos dos .zip 
+    │    ├── 📂 processed/         # CSVs limpos e tratados 
+    │    └── 🛢 censo_escolar.db    # Banco SQLite final
+    ├── 📓 notebooks/              # notebooks de exploração e limpeza
+    ├── 📂 src/ -> scripts Python reutilizáveis
+    │    ├── 01_Data_Cleaning.ipynb  # Limpeza e Estruturação dos Dados
+    ├── 📄 requirements.txt
+    └── 📘 README.md -> documentação do projeto
+   ```
 
-## 🔧 Tecnologias Usadas
-- Python
-- Pandas
-- Power BI
-- Jupyter Notebook
+## ⚙️ Etapas do Pipeline
+### 1️⃣ Download & Extração
 
-## 📊 Resultados Principais
+O script load_data.py percorre uma lista de links oficiais do INEP, faz o download dos .zip e extrai os arquivos automaticamente.
 
-### 1. Quais são as categorias mais vendidas? 
-- Pasc
-- ascascs
-<img src="reports/figures/categorias_00.png" alt="Description of image">
+Arquivos CSV principais são enviados para data/raw/.
 
-### 2. Qual é o ticket médio por cliente?
-- Éascascac
-- ascascacs
-<img src="reports/figures/ticket_medio_00.png" alt="Description of image">
+Arquivos de apoio (PDFs, dicionários, planilhas) são enviados para .dev/ (gitignored).
 
-### 3. Como está a evolução de vendas ao longo do tempo?
-- ascascasc
-<img src="reports/figures/evolucao_vendas_00.png" alt="Description of image">
+### 2️⃣ Limpeza e Padronização
 
-### 4. Qual a distribuição geográfica dos clientes?
-- ascascasc
-- ascasca
-<img src="reports/figures/distribuicao_geografica_00.png" alt="Description of image">
+Cada CSV é lido com o encoding correto (latin-1).
 
-### 5. Existem padrões de sazonalidade nas vendas?
-- ascascac
-- ascacas
+Nomes de colunas são padronizados.
+
+Conversão automática:
+
+float → int64
+
+datas no formato %d%b%Y:%H:%M:%S → datetime64
+
+Datasets de cada ano são unidos via concatenação incremental, respeitando diferenças de schema.
+
+### 3️⃣ Armazenamento e Modelagem
+
+Cada tabela é armazenada no SQLite como fato_censo_<ano>.
+
+A tabela entidades contém todas as escolas (CO_ENTIDADE) e seus metadados.
+
+CO_ENTIDADE foi definida como Primary Key via SQLiteStudio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 🚀 Como Reproduzir
 1. Clone este repositório:

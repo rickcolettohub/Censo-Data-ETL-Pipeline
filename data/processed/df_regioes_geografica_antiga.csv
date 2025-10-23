@@ -1,0 +1,559 @@
+CO_MESORREGIAO,NO_MESORREGIAO,CO_MICRORREGIAO,NO_MICRORREGIAO
+2,Leste Rondoniense,6,Cacoal
+2,Leste Rondoniense,3,Ariquemes
+2,Leste Rondoniense,8,Colorado do Oeste
+1,Madeira-Guaporé,2,Guajará-Mirim
+2,Leste Rondoniense,4,Ji-Paraná
+2,Leste Rondoniense,5,Alvorada D'Oeste
+2,Leste Rondoniense,7,Vilhena
+1,Madeira-Guaporé,1,Porto Velho
+2,Vale do Acre,4,Rio Branco
+2,Vale do Acre,5,Brasiléia
+1,Vale do Juruá,1,Cruzeiro do Sul
+1,Vale do Juruá,2,Tarauacá
+2,Vale do Acre,3,Sena Madureira
+3,Centro Amazonense,5,Tefé
+2,Sudoeste Amazonense,3,Alto Solimões
+3,Centro Amazonense,6,Coari
+4,Sul Amazonense,13,Madeira
+3,Centro Amazonense,7,Manaus
+1,Norte Amazonense,1,Rio Negro
+3,Centro Amazonense,10,Parintins
+4,Sul Amazonense,11,Boca do Acre
+4,Sul Amazonense,12,Purus
+2,Sudoeste Amazonense,4,Juruá
+3,Centro Amazonense,9,Itacoatiara
+1,Norte Amazonense,2,Japurá
+3,Centro Amazonense,8,Rio Preto da Eva
+1,Norte de Roraima,1,Boa Vista
+1,Norte de Roraima,2,Nordeste de Roraima
+2,Sul de Roraima,3,Caracaraí
+2,Sul de Roraima,4,Sudeste de Roraima
+4,Nordeste Paraense,11,Cametá
+6,Sudeste Paraense,17,Paragominas
+4,Nordeste Paraense,12,Tomé-Açu
+2,Marajó,5,Furos de Breves
+6,Sudeste Paraense,19,Parauapebas
+1,Baixo Amazonas,2,Santarém
+1,Baixo Amazonas,3,Almeirim
+5,Sudoeste Paraense,15,Altamira
+3,Metropolitana de Belém,7,Belém
+4,Nordeste Paraense,10,Bragantina
+4,Nordeste Paraense,13,Guamá
+5,Sudoeste Paraense,14,Itaituba
+2,Marajó,4,Portel
+6,Sudeste Paraense,18,São Félix do Xingu
+6,Sudeste Paraense,20,Marabá
+6,Sudeste Paraense,16,Tucuruí
+3,Metropolitana de Belém,8,Castanhal
+2,Marajó,6,Arari
+4,Nordeste Paraense,9,Salgado
+6,Sudeste Paraense,22,Conceição do Araguaia
+1,Baixo Amazonas,1,Óbidos
+6,Sudeste Paraense,21,Redenção
+2,Sul do Amapá,3,Macapá
+1,Norte do Amapá,2,Amapá
+1,Norte do Amapá,1,Oiapoque
+2,Sul do Amapá,4,Mazagão
+1,Ocidental do Tocantins,3,Miracema do Tocantins
+1,Ocidental do Tocantins,1,Bico do Papagaio
+1,Ocidental do Tocantins,5,Gurupi
+2,Oriental do Tocantins,8,Dianópolis
+2,Oriental do Tocantins,6,Porto Nacional
+1,Ocidental do Tocantins,2,Araguaína
+1,Ocidental do Tocantins,4,Rio Formoso
+2,Oriental do Tocantins,7,Jalapão
+2,Oeste Maranhense,9,Imperatriz
+4,Leste Maranhense,16,Coelho Neto
+4,Leste Maranhense,13,Baixo Parnaíba Maranhense
+1,Norte Maranhense,1,Litoral Ocidental Maranhense
+2,Oeste Maranhense,8,Pindaré
+4,Leste Maranhense,15,Codó
+5,Sul Maranhense,20,Gerais de Balsas
+2,Oeste Maranhense,7,Gurupi
+1,Norte Maranhense,5,Baixada Maranhense
+4,Leste Maranhense,14,Chapadinha
+3,Centro Maranhense,11,Alto Mearim e Grajaú
+1,Norte Maranhense,3,Rosário
+3,Centro Maranhense,10,Médio Mearim
+4,Leste Maranhense,18,Chapadas do Alto Itapecuru
+1,Norte Maranhense,4,Lençóis Maranhenses
+5,Sul Maranhense,21,Chapadas das Mangabeiras
+4,Leste Maranhense,17,Caxias
+5,Sul Maranhense,19,Porto Franco
+1,Norte Maranhense,6,Itapecuru Mirim
+3,Centro Maranhense,12,Presidente Dutra
+1,Norte Maranhense,2,Aglomeração Urbana de São Luís
+4,Sudeste Piauiense,15,Alto Médio Canindé
+2,Centro-Norte Piauiense,5,Médio Parnaíba Piauiense
+4,Sudeste Piauiense,14,Pio IX
+2,Centro-Norte Piauiense,4,Campo Maior
+2,Centro-Norte Piauiense,3,Teresina
+3,Sudoeste Piauiense,10,Alto Médio Gurguéia
+3,Sudoeste Piauiense,11,São Raimundo Nonato
+3,Sudoeste Piauiense,8,Bertolínia
+2,Centro-Norte Piauiense,6,Valença do Piauí
+4,Sudeste Piauiense,13,Picos
+3,Sudoeste Piauiense,12,Chapadas do Extremo Sul Piauiense
+3,Sudoeste Piauiense,7,Alto Parnaíba Piauiense
+1,Norte Piauiense,1,Baixo Parnaíba Piauiense
+1,Norte Piauiense,2,Litoral Piauiense
+3,Sudoeste Piauiense,9,Floriano
+7,Sul Cearense,33,Brejo Santo
+2,Norte Cearense,13,Baturité
+1,Noroeste Cearense,1,Litoral de Camocim e Acaraú
+4,Sertões Cearenses,21,Sertão de Senador Pompeu
+4,Sertões Cearenses,20,Sertão de Inhamuns
+1,Noroeste Cearense,4,Meruoca
+7,Sul Cearense,30,Caririaçu
+5,Jaguaribe,23,Baixo Jaguaribe
+2,Norte Cearense,8,Itapipoca
+6,Centro-Sul Cearense,27,Várzea Alegre
+2,Norte Cearense,11,Médio Curu
+3,Metropolitana de Fortaleza,16,Fortaleza
+5,Jaguaribe,22,Litoral de Aracati
+4,Sertões Cearenses,18,Sertão de Cratéus
+7,Sul Cearense,29,Chapada do Araripe
+7,Sul Cearense,31,Barro
+6,Centro-Sul Cearense,28,Lavras da Mangabeira
+4,Sertões Cearenses,19,Sertão de Quixeramobim
+7,Sul Cearense,32,Cariri
+2,Norte Cearense,14,Chorozinho
+2,Norte Cearense,15,Cascavel
+2,Norte Cearense,12,Canindé
+1,Noroeste Cearense,5,Sobral
+1,Noroeste Cearense,2,Ibiapaba
+1,Noroeste Cearense,7,Santa Quitéria
+6,Centro-Sul Cearense,26,Iguatu
+1,Noroeste Cearense,3,Coreaú
+5,Jaguaribe,25,Serra do Pereiro
+3,Metropolitana de Fortaleza,17,Pacajus
+1,Noroeste Cearense,6,Ipu
+2,Norte Cearense,10,Uruburetama
+5,Jaguaribe,24,Médio Jaguaribe
+2,Norte Cearense,9,Baixo Curu
+2,Central Potiguar,12,Seridó Oriental
+1,Oeste Potiguar,4,Vale do Açu
+2,Central Potiguar,9,Angicos
+1,Oeste Potiguar,5,Serra de São Miguel
+1,Oeste Potiguar,6,Pau dos Ferros
+1,Oeste Potiguar,7,Umarizal
+1,Oeste Potiguar,2,Chapada do Apodi
+1,Oeste Potiguar,1,Mossoró
+4,Leste Potiguar,19,Litoral Sul
+1,Oeste Potiguar,3,Médio Oeste
+3,Agreste Potiguar,14,Borborema Potiguar
+3,Agreste Potiguar,13,Baixa Verde
+2,Central Potiguar,10,Serra de Santana
+3,Agreste Potiguar,15,Agreste Potiguar
+2,Central Potiguar,8,Macau
+2,Central Potiguar,11,Seridó Ocidental
+4,Leste Potiguar,17,Macaíba
+4,Leste Potiguar,18,Natal
+4,Leste Potiguar,16,Litoral Nordeste
+1,Sertão Paraibano,7,Serra do Teixeira
+1,Sertão Paraibano,5,Piancó
+3,Agreste Paraibano,15,Brejo Paraibano
+3,Agreste Paraibano,16,Guarabira
+2,Borborema,11,Cariri Oriental
+3,Agreste Paraibano,12,Curimataú Ocidental
+4,Mata Paraibana,23,Litoral Sul
+1,Sertão Paraibano,2,Cajazeiras
+2,Borborema,10,Cariri Ocidental
+1,Sertão Paraibano,3,Sousa
+3,Agreste Paraibano,13,Curimataú Oriental
+1,Sertão Paraibano,4,Patos
+3,Agreste Paraibano,14,Esperança
+3,Agreste Paraibano,19,Umbuzeiro
+4,Mata Paraibana,20,Litoral Norte
+2,Borborema,9,Seridó Oriental Paraibano
+4,Mata Paraibana,22,João Pessoa
+1,Sertão Paraibano,1,Catolé do Rocha
+1,Sertão Paraibano,6,Itaporanga
+3,Agreste Paraibano,17,Campina Grande
+3,Agreste Paraibano,18,Itabaiana
+4,Mata Paraibana,21,Sapé
+2,Borborema,8,Seridó Ocidental Paraibano
+5,Metropolitana de Recife,17,Recife
+1,Sertão Pernambucano,3,Pajeú
+2,São Francisco Pernambucano,5,Petrolina
+3,Agreste Pernambucano,12,Brejo Pernambucano
+4,Mata Pernambucana,15,Mata Meridional Pernambucana
+3,Agreste Pernambucano,7,Vale do Ipanema
+3,Agreste Pernambucano,8,Vale do Ipojuca
+4,Mata Pernambucana,13,Mata Setentrional Pernambucana
+3,Agreste Pernambucano,11,Garanhuns
+5,Metropolitana de Recife,16,Itamaracá
+1,Sertão Pernambucano,1,Araripina
+1,Sertão Pernambucano,4,Sertão do Moxotó
+2,São Francisco Pernambucano,6,Itaparica
+3,Agreste Pernambucano,10,Médio Capibaribe
+5,Metropolitana de Recife,18,Suape
+3,Agreste Pernambucano,9,Alto Capibaribe
+1,Sertão Pernambucano,2,Salgueiro
+4,Mata Pernambucana,14,Vitória de Santo Antão
+5,Metropolitana de Recife,19,Fernando de Noronha
+1,Sertão Alagoano,1,Serrana do Sertão Alagoano
+3,Leste Alagoano,12,São Miguel dos Campos
+2,Agreste Alagoano,6,Arapiraca
+3,Leste Alagoano,9,Mata Alagoana
+3,Leste Alagoano,11,Maceió
+1,Sertão Alagoano,4,Batalha
+2,Agreste Alagoano,5,Palmeira dos Índios
+1,Sertão Alagoano,3,Santana do Ipanema
+3,Leste Alagoano,8,Serrana dos Quilombos
+1,Sertão Alagoano,2,Alagoana do Sertão do São Francisco
+3,Leste Alagoano,13,Penedo
+3,Leste Alagoano,10,Litoral Norte Alagoano
+2,Agreste Alagoano,7,Traipu
+3,Leste Sergipano,7,Propriá
+2,Agreste Sergipano,3,Nossa Senhora das Dores
+3,Leste Sergipano,11,Aracaju
+3,Leste Sergipano,12,Boquim
+2,Agreste Sergipano,4,Agreste de Itabaiana
+1,Sertão Sergipano,1,Sergipana do Sertão do São Francisco
+3,Leste Sergipano,8,Cotinguiba
+1,Sertão Sergipano,2,Carira
+3,Leste Sergipano,10,Baixo Cotinguiba
+3,Leste Sergipano,13,Estância
+3,Leste Sergipano,9,Japaratuba
+2,Agreste Sergipano,6,Agreste de Lagarto
+2,Agreste Sergipano,5,Tobias Barreto
+6,Centro Sul Baiano,23,Seabra
+2,Vale São-Franciscano da Bahia,5,Paulo Afonso
+4,Nordeste Baiano,17,Alagoinhas
+4,Nordeste Baiano,15,Ribeira do Pombal
+3,Centro Norte Baiano,12,Feira de Santana
+6,Centro Sul Baiano,25,Livramento do Brumado
+6,Centro Sul Baiano,24,Jequié
+7,Sul Baiano,32,Porto Seguro
+7,Sul Baiano,31,Ilhéus-Itabuna
+5,Metropolitana de Salvador,19,Catu
+3,Centro Norte Baiano,9,Irecê
+6,Centro Sul Baiano,28,Vitória da Conquista
+3,Centro Norte Baiano,8,Senhor do Bonfim
+1,Extremo Oeste Baiano,2,Cotegipe
+6,Centro Sul Baiano,27,Brumado
+4,Nordeste Baiano,16,Serrinha
+5,Metropolitana de Salvador,20,Santo Antônio de Jesus
+1,Extremo Oeste Baiano,1,Barreiras
+3,Centro Norte Baiano,11,Itaberaba
+2,Vale São-Franciscano da Bahia,6,Barra
+2,Vale São-Franciscano da Bahia,7,Bom Jesus da Lapa
+6,Centro Sul Baiano,22,Boquira
+6,Centro Sul Baiano,26,Guanambi
+3,Centro Norte Baiano,10,Jacobina
+7,Sul Baiano,30,Valença
+5,Metropolitana de Salvador,21,Salvador
+2,Vale São-Franciscano da Bahia,4,Juazeiro
+1,Extremo Oeste Baiano,3,Santa Maria da Vitória
+4,Nordeste Baiano,14,Euclides da Cunha
+4,Nordeste Baiano,18,Entre Rios
+4,Nordeste Baiano,13,Jeremoabo
+6,Centro Sul Baiano,29,Itapetinga
+5,Triângulo Mineiro/Alto Paranaíba,19,Patrocínio
+6,Central Mineira,24,Três Marias
+12,Zona da Mata,61,Manhuaçu
+12,Zona da Mata,60,Ponte Nova
+8,Vale do Rio Doce,39,Ipatinga
+8,Vale do Rio Doce,36,Peçanha
+5,Triângulo Mineiro/Alto Paranaíba,22,Uberaba
+9,Oeste de Minas,45,Campo Belo
+4,Vale do Mucuri,16,Nanuque
+2,Norte de Minas,5,Salinas
+8,Vale do Rio Doce,41,Aimorés
+10,Sul/Sudoeste de Minas,55,Andrelândia
+10,Sul/Sudoeste de Minas,54,São Lourenço
+10,Sul/Sudoeste de Minas,51,Poços de Caldas
+12,Zona da Mata,66,Cataguases
+10,Sul/Sudoeste de Minas,49,Alfenas
+11,Campo das Vertentes,59,Barbacena
+3,Jequitinhonha,14,Almenara
+8,Vale do Rio Doce,37,Governador Valadares
+10,Sul/Sudoeste de Minas,47,Passos
+12,Zona da Mata,62,Viçosa
+7,Metropolitana de Belo Horizonte,31,Itabira
+7,Metropolitana de Belo Horizonte,28,Conceição do Mato Dentro
+3,Jequitinhonha,13,Pedra Azul
+3,Jequitinhonha,11,Capelinha
+12,Zona da Mata,63,Muriaé
+7,Metropolitana de Belo Horizonte,27,Sete Lagoas
+12,Zona da Mata,65,Juiz de Fora
+3,Jequitinhonha,12,Araçuaí
+5,Triângulo Mineiro/Alto Paranaíba,18,Uberlândia
+5,Triângulo Mineiro/Alto Paranaíba,20,Patos de Minas
+6,Central Mineira,26,Bom Despacho
+5,Triângulo Mineiro/Alto Paranaíba,23,Araxá
+10,Sul/Sudoeste de Minas,48,São Sebastião do Paraíso
+9,Oeste de Minas,44,Formiga
+1,Noroeste de Minas,1,Unaí
+12,Zona da Mata,64,Ubá
+4,Vale do Mucuri,15,Teófilo Otoni
+6,Central Mineira,25,Curvelo
+9,Oeste de Minas,42,Piuí
+7,Metropolitana de Belo Horizonte,30,Belo Horizonte
+7,Metropolitana de Belo Horizonte,32,Itaguara
+10,Sul/Sudoeste de Minas,50,Varginha
+2,Norte de Minas,9,Bocaiúva
+8,Vale do Rio Doce,40,Caratinga
+10,Sul/Sudoeste de Minas,52,Pouso Alegre
+9,Oeste de Minas,46,Oliveira
+2,Norte de Minas,3,Januária
+2,Norte de Minas,8,Grão Mogol
+1,Noroeste de Minas,2,Paracatu
+2,Norte de Minas,7,Montes Claros
+8,Vale do Rio Doce,35,Guanhães
+10,Sul/Sudoeste de Minas,56,Itajubá
+2,Norte de Minas,6,Pirapora
+10,Sul/Sudoeste de Minas,53,Santa Rita do Sapucaí
+5,Triângulo Mineiro/Alto Paranaíba,17,Ituiutaba
+5,Triângulo Mineiro/Alto Paranaíba,21,Frutal
+9,Oeste de Minas,43,Divinópolis
+11,Campo das Vertentes,57,Lavras
+7,Metropolitana de Belo Horizonte,34,Conselheiro Lafaiete
+11,Campo das Vertentes,58,São João Del Rei
+2,Norte de Minas,4,Janaúba
+8,Vale do Rio Doce,38,Mantena
+3,Jequitinhonha,10,Diamantina
+7,Metropolitana de Belo Horizonte,33,Ouro Preto
+7,Metropolitana de Belo Horizonte,29,Pará de Minas
+3,Central Espírito-santense,7,Afonso Cláudio
+1,Noroeste Espírito-santense,2,Nova Venécia
+1,Noroeste Espírito-santense,1,Barra de São Francisco
+4,Sul Espírito-santense,11,Alegre
+3,Central Espírito-santense,10,Guarapari
+1,Noroeste Espírito-santense,3,Colatina
+4,Sul Espírito-santense,12,Cachoeiro de Itapemirim
+2,Litoral Norte Espírito-santense,6,Linhares
+3,Central Espírito-santense,9,Vitória
+2,Litoral Norte Espírito-santense,5,São Mateus
+3,Central Espírito-santense,8,Santa Teresa
+4,Sul Espírito-santense,13,Itapemirim
+2,Litoral Norte Espírito-santense,4,Montanha
+5,Sul Fluminense,13,Baía da Ilha Grande
+1,Noroeste Fluminense,2,Santo Antônio de Pádua
+4,Baixadas,10,Lagos
+3,Centro Fluminense,5,Três Rios
+5,Sul Fluminense,12,Barra do Piraí
+5,Sul Fluminense,11,Vale do Paraíba Fluminense
+6,Metropolitana do Rio de Janeiro,18,Rio de Janeiro
+3,Centro Fluminense,7,Nova Friburgo
+1,Noroeste Fluminense,1,Itaperuna
+6,Metropolitana do Rio de Janeiro,16,Macacu-Caceribu
+2,Norte Fluminense,4,Macaé
+2,Norte Fluminense,3,Campos dos Goytacazes
+3,Centro Fluminense,6,Cantagalo-Cordeiro
+4,Baixadas,9,Bacia de São João
+6,Metropolitana do Rio de Janeiro,14,Vassouras
+6,Metropolitana do Rio de Janeiro,17,Itaguaí
+6,Metropolitana do Rio de Janeiro,15,Serrana
+3,Centro Fluminense,8,Santa Maria Madalena
+8,Presidente Prudente,35,Adamantina
+1,São José do Rio Preto,4,São José do Rio Preto
+7,Campinas,29,Pirassununga
+7,Campinas,30,São João da Boa Vista
+7,Campinas,33,Amparo
+4,Bauru,22,Avaré
+6,Piracicaba,28,Piracicaba
+4,Bauru,20,Bauru
+11,Itapetininga,42,Itapetininga
+8,Presidente Prudente,36,Presidente Prudente
+2,Ribeirão Preto,15,Batatais
+3,Araçatuba,18,Birigui
+12,Macro Metropolitana Paulista,46,Sorocaba
+1,São José do Rio Preto,3,Votuporanga
+9,Marília,38,Marília
+7,Campinas,32,Campinas
+5,Araraquara,24,Araraquara
+5,Araraquara,25,São Carlos
+3,Araçatuba,16,Andradina
+4,Bauru,23,Botucatu
+13,Vale do Paraíba Paulista,51,Guaratinguetá
+1,São José do Rio Preto,1,Jales
+11,Itapetininga,44,Capão Bonito
+3,Araçatuba,17,Araçatuba
+2,Ribeirão Preto,11,Ituverava
+13,Vale do Paraíba Paulista,52,Bananal
+6,Piracicaba,27,Limeira
+9,Marília,37,Tupã
+1,São José do Rio Preto,5,Catanduva
+7,Campinas,31,Mogi Mirim
+15,Metropolitana de São Paulo,59,Guarulhos
+10,Assis,39,Assis
+12,Macro Metropolitana Paulista,48,Bragança Paulista
+1,São José do Rio Preto,6,Auriflama
+11,Itapetininga,41,Itapeva
+4,Bauru,21,Jaú
+14,Litoral Sul Paulista,55,Registro
+2,Ribeirão Preto,9,Barretos
+2,Ribeirão Preto,14,Ribeirão Preto
+15,Metropolitana de São Paulo,57,Osasco
+2,Ribeirão Preto,13,Jaboticabal
+10,Assis,40,Ourinhos
+15,Metropolitana de São Paulo,63,Santos
+15,Metropolitana de São Paulo,62,Mogi das Cruzes
+11,Itapetininga,43,Tatuí
+6,Piracicaba,26,Rio Claro
+13,Vale do Paraíba Paulista,50,São José dos Campos
+4,Bauru,19,Lins
+15,Metropolitana de São Paulo,58,Franco da Rocha
+12,Macro Metropolitana Paulista,47,Jundiaí
+13,Vale do Paraíba Paulista,49,Campos do Jordão
+13,Vale do Paraíba Paulista,54,Caraguatatuba
+15,Metropolitana de São Paulo,60,Itapecerica da Serra
+2,Ribeirão Preto,12,Franca
+13,Vale do Paraíba Paulista,53,Paraibuna/Paraitinga
+15,Metropolitana de São Paulo,61,São Paulo
+8,Presidente Prudente,34,Dracena
+1,São José do Rio Preto,2,Fernandópolis
+2,Ribeirão Preto,10,São Joaquim da Barra
+12,Macro Metropolitana Paulista,45,Piedade
+1,São José do Rio Preto,8,Novo Horizonte
+14,Litoral Sul Paulista,56,Itanhaém
+1,São José do Rio Preto,7,Nhandeara
+4,Norte Pioneiro Paranaense,15,Cornélio Procópio
+10,Metropolitana de Curitiba,35,Cerro Azul
+10,Metropolitana de Curitiba,39,Rio Negro
+10,Metropolitana de Curitiba,37,Curitiba
+2,Centro Ocidental Paranaense,4,Goioerê
+1,Noroeste Paranaense,2,Umuarama
+1,Noroeste Paranaense,1,Paranavaí
+3,Norte Central Paranaense,7,Porecatu
+7,Sudoeste Paranaense,25,Capanema
+6,Oeste Paranaense,23,Cascavel
+3,Norte Central Paranaense,6,Astorga
+10,Metropolitana de Curitiba,38,Paranaguá
+9,Sudeste Paranaense,34,São Mateus do Sul
+3,Norte Central Paranaense,10,Apucarana
+5,Centro Oriental Paranaense,20,Jaguariaíva
+3,Norte Central Paranaense,13,Ivaiporã
+2,Centro Ocidental Paranaense,5,Campo Mourão
+4,Norte Pioneiro Paranaense,14,Assaí
+6,Oeste Paranaense,22,Toledo
+7,Sudoeste Paranaense,26,Francisco Beltrão
+4,Norte Pioneiro Paranaense,16,Jacarezinho
+9,Sudeste Paranaense,33,União da Vitória
+8,Centro-Sul Paranaense,28,Pitanga
+3,Norte Central Paranaense,12,Faxinal
+7,Sudoeste Paranaense,27,Pato Branco
+3,Norte Central Paranaense,11,Londrina
+8,Centro-Sul Paranaense,29,Guarapuava
+5,Centro Oriental Paranaense,21,Ponta Grossa
+4,Norte Pioneiro Paranaense,18,Wenceslau Braz
+6,Oeste Paranaense,24,Foz do Iguaçu
+1,Noroeste Paranaense,3,Cianorte
+8,Centro-Sul Paranaense,30,Palmas
+4,Norte Pioneiro Paranaense,17,Ibaiti
+3,Norte Central Paranaense,8,Floraí
+9,Sudeste Paranaense,31,Prudentópolis
+5,Centro Oriental Paranaense,19,Telêmaco Borba
+9,Sudeste Paranaense,32,Irati
+10,Metropolitana de Curitiba,36,Lapa
+3,Norte Central Paranaense,9,Maringá
+3,Serrana,9,Curitibanos
+1,Oeste Catarinense,3,Xanxerê
+4,Vale do Itajaí,14,Ituporanga
+4,Vale do Itajaí,11,Rio do Sul
+1,Oeste Catarinense,4,Joaçaba
+1,Oeste Catarinense,2,Chapecó
+5,Grande Florianópolis,17,Tabuleiro
+1,Oeste Catarinense,5,Concórdia
+1,Oeste Catarinense,1,São Miguel do Oeste
+5,Grande Florianópolis,15,Tijucas
+3,Serrana,10,Campos de Lages
+5,Grande Florianópolis,16,Florianópolis
+4,Vale do Itajaí,12,Blumenau
+2,Norte Catarinense,8,Joinville
+6,Sul Catarinense,20,Araranguá
+6,Sul Catarinense,18,Tubarão
+4,Vale do Itajaí,13,Itajaí
+2,Norte Catarinense,6,Canoinhas
+2,Norte Catarinense,7,São Bento do Sul
+6,Sul Catarinense,19,Criciúma
+6,Sudoeste Rio-grandense,31,Campanha Meridional
+1,Noroeste Rio-grandense,10,Passo Fundo
+3,Centro Ocidental Rio-grandense,19,Restinga Seca
+1,Noroeste Rio-grandense,8,Ijuí
+1,Noroeste Rio-grandense,1,Santa Rosa
+6,Sudoeste Rio-grandense,29,Campanha Ocidental
+1,Noroeste Rio-grandense,9,Carazinho
+1,Noroeste Rio-grandense,3,Frederico Westphalen
+1,Noroeste Rio-grandense,11,Cruz Alta
+5,Metropolitana de Porto Alegre,23,Montenegro
+5,Metropolitana de Porto Alegre,26,Porto Alegre
+7,Sudeste Rio-grandense,32,Serras de Sudeste
+2,Nordeste Rio-grandense,14,Guaporé
+2,Nordeste Rio-grandense,16,Caxias do Sul
+5,Metropolitana de Porto Alegre,28,Camaquã
+1,Noroeste Rio-grandense,4,Erechim
+4,Centro Oriental Rio-grandense,21,Lajeado-Estrela
+5,Metropolitana de Porto Alegre,27,Osório
+7,Sudeste Rio-grandense,33,Pelotas
+5,Metropolitana de Porto Alegre,25,São Jerônimo
+4,Centro Oriental Rio-grandense,20,Santa Cruz do Sul
+7,Sudeste Rio-grandense,34,Jaguarão
+1,Noroeste Rio-grandense,5,Sananduva
+1,Noroeste Rio-grandense,2,Três Passos
+1,Noroeste Rio-grandense,13,Soledade
+2,Nordeste Rio-grandense,15,Vacaria
+1,Noroeste Rio-grandense,7,Santo Ângelo
+3,Centro Ocidental Rio-grandense,18,Santa Maria
+4,Centro Oriental Rio-grandense,22,Cachoeira do Sul
+1,Noroeste Rio-grandense,6,Cerro Largo
+5,Metropolitana de Porto Alegre,24,Gramado-Canela
+3,Centro Ocidental Rio-grandense,17,Santiago
+7,Sudeste Rio-grandense,35,Litoral Lagunar
+1,Noroeste Rio-grandense,12,Não-Me-Toque
+6,Sudoeste Rio-grandense,30,Campanha Central
+3,Leste de Mato Grosso do Sul,7,Três Lagoas
+2,Centro Norte de Mato Grosso do Sul,3,Alto Taquari
+4,Sudoeste de Mato Grosso do Sul,10,Dourados
+1,Pantanais Sul Mato-grossense,2,Aquidauana
+3,Leste de Mato Grosso do Sul,8,Nova Andradina
+4,Sudoeste de Mato Grosso do Sul,11,Iguatemi
+3,Leste de Mato Grosso do Sul,6,Paranaíba
+2,Centro Norte de Mato Grosso do Sul,4,Campo Grande
+4,Sudoeste de Mato Grosso do Sul,9,Bodoquena
+3,Leste de Mato Grosso do Sul,5,Cassilândia
+1,Pantanais Sul Mato-grossense,1,Baixo Pantanal
+4,Centro-Sul Mato-grossense,16,Rosário Oeste
+2,Nordeste Mato-grossense,10,Canarana
+1,Norte Mato-grossense,2,Alta Floresta
+5,Sudeste Mato-grossense,22,Alto Araguaia
+2,Nordeste Mato-grossense,9,Norte Araguaia
+4,Centro-Sul Mato-grossense,15,Alto Paraguai
+2,Nordeste Mato-grossense,11,Médio Araguaia
+5,Sudeste Mato-grossense,20,Tesouro
+3,Sudoeste Mato-grossense,14,Jauru
+1,Norte Mato-grossense,1,Aripuanã
+4,Centro-Sul Mato-grossense,18,Alto Pantanal
+3,Sudoeste Mato-grossense,13,Tangará da Serra
+1,Norte Mato-grossense,4,Parecis
+5,Sudeste Mato-grossense,19,Primavera do Leste
+4,Centro-Sul Mato-grossense,17,Cuiabá
+1,Norte Mato-grossense,7,Sinop
+1,Norte Mato-grossense,3,Colíder
+3,Sudoeste Mato-grossense,12,Alto Guaporé
+5,Sudeste Mato-grossense,21,Rondonópolis
+1,Norte Mato-grossense,8,Paranatinga
+1,Norte Mato-grossense,6,Alto Teles Pires
+1,Norte Mato-grossense,5,Arinos
+3,Centro Goiano,10,Goiânia
+4,Leste Goiano,12,Entorno de Brasília
+5,Sul Goiano,14,Vale do Rio dos Bois
+3,Centro Goiano,9,Anicuns
+5,Sul Goiano,15,Meia Ponte
+2,Norte Goiano,4,Porangatu
+2,Norte Goiano,5,Chapada dos Veadeiros
+4,Leste Goiano,11,Vão do Paranã
+3,Centro Goiano,8,Iporá
+3,Centro Goiano,7,Anápolis
+5,Sul Goiano,17,Catalão
+5,Sul Goiano,13,Sudoeste de Goiás
+1,Noroeste Goiano,3,Aragarças
+1,Noroeste Goiano,2,Rio Vermelho
+3,Centro Goiano,6,Ceres
+5,Sul Goiano,18,Quirinópolis
+5,Sul Goiano,16,Pires do Rio
+1,Noroeste Goiano,1,São Miguel do Araguaia
+1,Distrito Federal,1,Brasília

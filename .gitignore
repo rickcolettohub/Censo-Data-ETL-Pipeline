@@ -1,3 +1,6 @@
+#db final
+data/censo_escolar.db
+
 #Dev depenndencies
 .dev/
 data/raw/
