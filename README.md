@@ -29,14 +29,14 @@ Os dados anteriores a 2007 utilizavam outro padrão técnico e estão planejados
     │    ├── 📂 raw/               # CSVs originais extraídos dos .zip 
     │    ├── 📂 processed/         # CSVs limpos e tratados 
     │    └── 🛢 censo_escolar.db    # Banco SQLite final - Gitignored
-    |
+    │
     ├── 📓 notebooks/
-    |    └── 01_Data_Cleaning.ipynb # notebooks de exploração e limpeza
-    |
+    │    └── 01_Data_Cleaning.ipynb # notebooks de exploração e limpeza
+    │
     ├── 📂 src/ 
     │    ├── create_sqldb.py        # Cria um .db limpo para receber os dados
-    |    └── load_data.py           # Download dos dados brutos
-    |
+    │    └── load_data.py           # Download dos dados brutos
+    │
     ├── 📄 requirements.txt
     └── 📘 README.md 
    ```
