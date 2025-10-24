@@ -40,7 +40,11 @@ Os dados anteriores a 2007 utilizavam outro padrão técnico e estão planejados
     ├── 📄 requirements.txt
     └── 📘 README.md 
    ```
-    ‼️IMPORTANTE: O arquivo censo_escolar.db final estará disponivel para download em um link externo para analise e utilização em outros projetos.
+## Link do SQLite - censo_escolar.db
+
+O arquvio final do banco de dados ficou com 2 Gb aproximadamente, portanto eu deixei ele fora do projeto. Voce pode gerar executando o projeto, ou acessa-lo via esse link.
+
+⬇️ [Download censo_escolar.db](https://1024terabox.com/s/1_aPcO1YLRDIBHdNNzAPOAg)
 
 ## ⚙️ Etapas do Pipeline
 
