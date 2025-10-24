@@ -10,7 +10,7 @@ from tqdm import tqdm
 
 URLS = [
     f"https://download.inep.gov.br/dados_abertos/microdados_censo_escolar_{ano}.zip"
-    for ano in range(1995, 2025)
+    for ano in range(2007, 2025)
 ]
 
 PASTA_RAW = "data/raw"
