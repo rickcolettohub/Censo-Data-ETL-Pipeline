@@ -11,7 +11,7 @@ Os dados anteriores a 2007 utilizavam outro padrão técnico e estão planejados
 
 
 ## 🧰 Stack Utilizada
-- **Python 3.11+**
+- **Python 3.13+**
   - pandas  
   - sqlalchemy  
   - zipfile / pathlib / os  
