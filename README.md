@@ -37,6 +37,7 @@ Os dados anteriores a 2007 utilizavam outro padrão técnico e estão planejados
     │    ├── create_sqldb.py        # Cria um .db limpo para receber os dados
     │    └── load_data.py           # Download dos dados brutos
     │
+    ├── 📂 Leia-me - Aux.zip       # Arquivos auxiliares de cada ano
     ├── 📄 requirements.txt
     └── 📘 README.md 
    ```
@@ -111,7 +112,7 @@ ORDER BY total_escolas DESC;
 
 4. Execute o notebook na pasta notebooks/.
 
-4. Consulte o banco via Jupyter:
+5. Consulte o banco via Jupyter:
    ```python
     import pandas as pd
     import sqlalchemy as sqla
@@ -121,6 +122,27 @@ ORDER BY total_escolas DESC;
     query = pd.read_sql("SELECT * FROM fato_censo_2024 LIMIT 5", sql_engine)
     display(query)
    ```
+
+## ‼️Arquivos Auxiliares
+Cada ao possui uma pasta de arquivos auxiliares:
+   ```
+📂 Leia-me_<ano>/ 
+    ├── 📂 Anexos/ 
+    │    ├── 📂 ANEXO I - Dicionário de Dados/               
+    │    │    └── dicionário_dados_educação_básica.xlsx                # Dicionário das variaveis
+    │    │   
+    │    └── 📂 ANEXO II - Questionários do Censo da Educação Básica/  # Caderno de Questionários
+    │        ├── 📄 Aluno.pdf
+    │        ├── 📄 Escola.pdf
+    │        ├── 📄 Gestor_Escolar.pdf
+    │        ├── 📄 Profissional_Escolar.pdf
+    │        └── 📄 Turma.pdf
+    │
+    ├── 📄 Leia-me.pdf
+    └── 📄 Nota.pdf 
+   ```
+
+Para análise dos dados utilize o dicionário de dados para entender o que cada coluna significa.
 
 ## 🧾 Licença e Créditos
 - Fonte dos dados: **[INEP / Ministério da Educação (MEC)](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar)**  
