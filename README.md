@@ -45,7 +45,7 @@ Os dados anteriores a 2007 utilizavam outro padrão técnico e estão planejados
 
 O arquvio final do banco de dados ficou com 2 Gb aproximadamente, portanto eu deixei ele fora do projeto. Voce pode gerar executando o projeto, ou acessa-lo via esse link.
 
-⬇️ [Download censo_escolar.db](https://1024terabox.com/s/1_aPcO1YLRDIBHdNNzAPOAg)
+⬇️ [Download censo_escolar.db via Kaggle](https://www.kaggle.com/datasets/luizvaladao/inpe-censo-escolar-2007-2024)
 
 ## ⚙️ Etapas do Pipeline
 
@@ -78,8 +78,8 @@ ORDER BY total_escolas DESC;
 
 ## 📊 Próximos Passos
 
-🔹 **Projeto 2:** Análise exploratória e indicadores de qualidade da educação (Power BI e Python);  
-🔹 **Projeto 3:** Publicação dos dados limpos no Kaggle;  
+🔹 **Projeto 2:** Análise exploratória e indicadores de qualidade da educação (Power BI e Python); 🚧🚧
+🔹 **Projeto 3:** Publicação dos dados limpos no Kaggle; 🚧🚧
 🔹 **Projeto 4:** Pipeline histórico (1995–2006) com reconciliação de códigos e variáveis.
 
 ## 🧠 Conceitos Demonstrados
